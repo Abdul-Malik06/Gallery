@@ -1,0 +1,38 @@
+
+.img {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPBKMVU0oy4N4t9OwzT1i2d8YDrohd0Jm_OA&usqp=CAU);
+    width: 100px;
+    height: 100px;
+    margin: 20px 0 0 50px;
+    border: solid 5px;
+  }
+  
+  .lokol-img {
+    height: 100px;
+    margin: 20px 0 0 50px;
+    border: solid 5px;
+  }
+  
+  .bloc-one {
+    display: flex;
+  }
+  
+  .bloc-two {
+    display: flex;
+  }
+  
+  .bloc-three {
+    display: flex;
+  }
+    img{
+        width: 100px;
+        height: 100px;
+    }
+
+div.bloc{
+background: black;
+}
+
+
+
+
